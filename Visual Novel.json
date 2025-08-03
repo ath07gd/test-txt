@@ -1,0 +1,42 @@
+[
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "<<name >>\nXin chào, đây là một ví dụ cho template visual novel.\nTrên page đã có sẵn vài tenplate cho dạng game này, page thấy vẫn còn vào phần phức tạp cho người mới, nên đây là phiên bản đơn giản nhất mà page làm, thân thiện với người mới dùng phần mềm.\nQuay lại với template, bản này có các phần cơ bản của game template\nQuay lại với template, bản này có các phần cơ bản của game template\n<<name Os >>  <<ava 2 os >> Hiện nhân vật\n<<name Pi >>  <<ava 1 pi >> Hiện 2 nhân vật\n<< bg BB>> Đổi hình nền\n<< bg AA>> Đổi hình nền lại\n<<ava 1 os >><<ava 2 pi >> Đổi chỗ 2 nhân vật (cũng dùng được cho đổi biểu cảm)\nHiện lựa chọn\n[[Lựa chọn 1 |lc1]][[ Lựa chọn 2|lc2]]",
+		"position": {
+			"x": -379,
+			"y": 127
+		},
+		"colorID": 0
+	},
+	{
+		"title": "lc1",
+		"tags": "",
+		"body": "<< name >> <<ava 1 x >> <<ava 2 x >> \nẨn nhân vật\n[[ answer: |c1]]",
+		"position": {
+			"x": -161,
+			"y": -10
+		},
+		"colorID": 0
+	},
+	{
+		"title": "lc2",
+		"tags": "",
+		"body": "<< name >> <<ava 1 x >> <<ava 2 x >> \nẨn nhân vật\n[[ answer: |c1]]",
+		"position": {
+			"x": -158,
+			"y": 254
+		},
+		"colorID": 0
+	},
+	{
+		"title": "c1",
+		"tags": "",
+		"body": "Hết.\n[[ Quay lại |Node]][[000|c1]]",
+		"position": {
+			"x": 52,
+			"y": 122
+		},
+		"colorID": 0
+	}
+]
