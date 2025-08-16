@@ -37,18 +37,30 @@ Nhập số giây giữa 2 lần thoại ngẫu nhiên xuất hiện vào ô nh�
 
 -----start----
 //00:00-24:00
-=><<bg day>><<bg2 doves>>Thay đổi ảnh
+
+=>Thoại ngẫu nhiên
+=>Điền thoại của bạn vào đây
+
+=><<bg day>>Thay đổi ảnh
 Nhập lệnh < <bg x> > và dùng 1 trong 4 tên day/night/planet/pink thay cho x để đổi ảnh
 Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
 
-=><<bg night>><<bg2 moon>>Thay đổi ảnh 2
+=><<bg2 moon>>Thay đổi ảnh 2
 Nhập lệnh < <bg2 y> > và dùng 1 trong 4 tên moon/doves/rubik/cloud thay cho y để đổi ảnh
 Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
 
-=>Thoại ngẫu nhiên
+//06:00-10:00
+=>Chào buổi sáng
+Hôm nay lại cố gắng nào
 
-//18:00-24:00
-=>Thoại xuất hiện từ 18h đến 0h
+//11:00-13:00
+=>Chào buổi trưa
+
+//18:00-20:00
+=>Chào buổi tối
+Hôm nay của bạn thế nào?
+=>Buổi tối vui vẻ
+
 
 
 
