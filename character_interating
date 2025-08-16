@@ -35,7 +35,7 @@ Nhập lệnh < <bg x> > và dùng 1 trong 4 tên day/night/planet/pink thay cho
 Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
 
 =><<bg night>><<bg2 moon>>Thay đổi ảnh 2
-Nhập lệnh < <bg2 y> > và dùng 1 trong 4 tên moon/doves/rubik/cloudthay cho y để đổi ảnh
+Nhập lệnh < <bg2 y> > và dùng 1 trong 4 tên moon/doves/rubik/cloud thay cho y để đổi ảnh
 Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
 
 =>Thoại ngẫu nhiên
