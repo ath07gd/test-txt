@@ -1,0 +1,40 @@
+Giới thiệu: Đây là app hiển thị thoại ngẫu nhiên thôi thời gian.
+Hướng dẫn sử dụng:
+
+Nhập nội dung (sau phần ngăn cách -----start----) theo cú pháp sau
+//xx:yy        (xx: giờ (00 đến 24), yy: phút (00 đến 59)
+= >Nội dung thoại nhóm 1
+thoại 1
+thoai 2
+
+= >Nội dung thoại nhóm 2
+thoại 1
+thoai 2
+
+Mốc thời gian mặc định
+//00:00-24:00 (đặt đầu tiên, bao gồm các thoại sẽ xuất hiện ngẫu nhiên, nếu không có mốc thời gian khác)
+
+Nếu có mốc thời gian khác, đặt theo thứ tự, giờ bắt đầu lớn dần
+//02:00-04:00
+//02:15-03:00 (thoại nằm trong khoảng này xuất hiện thay cho thoại từ 2h đến 4h)
+
+//07:00-08:00
+//13:00-14:00
+...
+
+Sau khi nhập xong, bấm vào icon save hoặc select.
+Bấm chọn 1 trong 8 mục để nhập nội dung, mục nào được chọn (select), sẽ xuất hiện hình ngôi sao. Mục được chọn sẽ hiện thoại tương ứng. (có thể tại mục cho từng ngày)
+
+Phần link trên cùng dùng để chia sẻ link, dán link url phù hợp để tải xuống nội dung tương ứng:
+Ví dụ, dán đường link này vào, sau đó bấm mũi tên bên cạnh:
+
+
+-----start----
+//00:00-24:00
+=><<bg day>><<bg2 doves>>Thay đổi ảnh
+=><<bg night>><<bg2 moon>>Thay đổi ảnh 2
+//18:00-24:00
+=>Thoại xuất hiện từ 18h đến 0h
+
+
+
