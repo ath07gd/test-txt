@@ -24,15 +24,22 @@ Nếu có mốc thời gian khác, đặt theo thứ tự, giờ bắt đầu l�
 
 Sau khi nhập xong, bấm vào icon save hoặc select.
 Bấm chọn 1 trong 8 mục để nhập nội dung, mục nào được chọn (select), sẽ xuất hiện hình ngôi sao. Mục được chọn sẽ hiện thoại tương ứng. (có thể tại mục cho từng ngày)
-
-Phần link trên cùng dùng để chia sẻ link, dán link url phù hợp để tải xuống nội dung tương ứng:
-Ví dụ, dán đường link này vào, sau đó bấm mũi tên bên cạnh:
-
+-----
+Nhập số giây giữa 2 lần thoại ngẫu nhiên xuất hiện vào ô nhập bên dưới.
+-----
 
 -----start----
 //00:00-24:00
 =><<bg day>><<bg2 doves>>Thay đổi ảnh
+Nhập lệnh < <bg x> > và dùng 1 trong 4 tên day/night/planet/pink thay cho x để đổi ảnh
+Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
+
 =><<bg night>><<bg2 moon>>Thay đổi ảnh 2
+Nhập lệnh < <bg2 y> > và dùng 1 trong 4 tên moon/doves/rubik/cloudthay cho y để đổi ảnh
+Phần này có thể dùng để đổi hình nền, biểu cảm, vv...
+
+=>Thoại ngẫu nhiên
+
 //18:00-24:00
 =>Thoại xuất hiện từ 18h đến 0h
 
