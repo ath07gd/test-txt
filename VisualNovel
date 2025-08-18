@@ -1,6 +1,6 @@
 [
 	{
-		"title": "Start",
+		"title": "Node",
 		"tags": "",
 		"body": "Giới thiệu project",
 		"position": {
@@ -10,7 +10,7 @@
 		"colorID": 0
 	},
 	{
-		"title": "Node",
+		"title": "Start",
 		"tags": "",
 		"body": "<<name >>\nXin chào, đây là một ví dụ cho template visual novel.\nTrên page đã có sẵn vài tenplate cho dạng game này, page thấy vẫn còn vào phần phức tạp cho người mới, nên đây là phiên bản đơn giản nhất mà page làm, thân thiện với người mới dùng phần mềm.\nQuay lại với template, bản này có các phần cơ bản của game template\nQuay lại với template, bản này có các phần cơ bản của game template\n<<name Os >>  <<ava 2 os >> Hiện nhân vật\n<<name Pi >>  <<ava 1 pi >> Hiện 2 nhân vật\n<< bg BB>> Đổi hình nền\n<< bg AA>> Đổi hình nền lại\n<<ava 1 os >><<ava 2 pi >> Đổi chỗ 2 nhân vật (cũng dùng được cho đổi biểu cảm)\nHiện lựa chọn\n[[Lựa chọn 1 |lc1]][[ Lựa chọn 2|lc2]]",
 		"position": {
