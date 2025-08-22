@@ -1,0 +1,72 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "Đây là template Interactive Fic, tương đồng với Carrd.co bản đơn giản nhưng không giới hạn trang.\n(Trong bản web thì không nhập được hình ảnh)\nTrong phần này, bạn có thể [b]in đậm[/b], [i]in nghiêng[/i], [color=#ff0000]đổi màu chữ[/color].\n\nBạn có thể thay đổi tên nhân vật cũng như cách xưng hô để nội dung phù hợp với người chơi, bằng cách bấm nút cài đặt góc phải để thay từ.\n\nTên nhân vật A là @A1\nTên nhân vật B là @B1\n\nDùng nút cuộn chuột hoặc vuốt màn hình để di chuyển lên xuống.\n\nCác lựa chọn sẽ xuất hiện ở cách dòng cuối, có thể đổi màu và kích thước của các lưa chọn để dễ phân biệt.\n[[Tiếp tục|C0]][[000|C0]]",
+		"position": {
+			"x": 51,
+			"y": 210
+		},
+		"colorID": 0
+	},
+	{
+		"title": "B",
+		"tags": "",
+		"body": "[i]Template có thể thêm 1 hình ảnh ở đầu trang.[/i]\nNhân vật @B1 ...\n[[ Giới thiệu nhân vật @A1 |A]][[ Chọn nhân vật @B1|C1b]]",
+		"position": {
+			"x": 631,
+			"y": 373
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C1a",
+		"tags": "",
+		"body": "Bạn đã chọn nhân vật @B1\n[[Quay lại|Start]][[000|C0]]",
+		"position": {
+			"x": 913,
+			"y": 71
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C0",
+		"tags": "",
+		"body": "Mở đầu\nChọn nhân vật (Phần thay từ cũng có thể áp dụng cho phần lựa chọn)\n[[ Giới thiệu nhân vật @A1 (tên bạn nhập) |A]][[ Giới thiệu nhân vật @B1 (tên bạn nhập)|B]]",
+		"position": {
+			"x": 364,
+			"y": 205
+		},
+		"colorID": 0
+	},
+	{
+		"title": "A",
+		"tags": "",
+		"body": "[i]Template có thể thêm 1 hình ảnh ở đầu trang.[/i]\nNhân vật @A1 ...\n[[ Giới thiệu nhân vật @B1 |B]][[ Chọn nhân vật @A1|C1a]]",
+		"position": {
+			"x": 632,
+			"y": 70
+		},
+		"colorID": 0
+	},
+	{
+		"title": "C1b",
+		"tags": "",
+		"body": "Bạn đã chọn nhân vật @B1\n[[Quay lại|Start]][[000|C0]]",
+		"position": {
+			"x": 916,
+			"y": 311
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Node",
+		"tags": "",
+		"body": "Đây là template Interactive Fic, tương đồng với Carrd.co bản đơn giản nhưng không giới hạn trang.\n(Trong bản web thì không nhập được hình ảnh)\nTrong phần này, bạn có thể [b]in đậm[/b], [i]in nghiêng[/i], [color=#ff0000]đổi màu chữ[/color].\n\nBạn có thể thay đổi tên nhân vật cũng như cách xưng hô để nội dung phù hợp với người chơi, bằng cách bấm nút cài đặt góc phải để thay từ.\n\n@A1: nhập tên nhân vật A\n@B1: nhập tên nhân vật B\n\nDùng nút cuộn chuột hoặc vuốt màn hình để di chuyển lên xuống.\n\nCác lựa chọn sẽ xuất hiện ở cách dòng cuối, có thể đổi màu và kích thước của các lưa chọn để dễ phân biệt.",
+		"position": {
+			"x": 37,
+			"y": -52
+		},
+		"colorID": 0
+	}
+]
