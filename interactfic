@@ -10,7 +10,7 @@
 		"colorID": 0
 	},
 	{
-		"title": "B",
+		"title": "Ba",
 		"tags": "",
 		"body": "[i]Template có thể thêm 1 hình ảnh ở đầu trang.[/i]\nNhân vật @B1 ...\n[[ Giới thiệu nhân vật @A1 |A]][[ Chọn nhân vật @B1|C1b]]",
 		"position": {
@@ -32,7 +32,7 @@
 	{
 		"title": "C0",
 		"tags": "",
-		"body": "Mở đầu\nChọn nhân vật (Phần thay từ cũng có thể áp dụng cho phần lựa chọn)\n[[ Giới thiệu nhân vật @A1 (tên bạn nhập) |A]][[ Giới thiệu nhân vật @B1 (tên bạn nhập)|B]]",
+		"body": "Mở đầu\nChọn nhân vật (Phần thay từ cũng có thể áp dụng cho phần lựa chọn)\n[[ Giới thiệu nhân vật @A1 (tên bạn nhập) |Aa]][[ Giới thiệu nhân vật @B1 (tên bạn nhập)|Ba]]",
 		"position": {
 			"x": 364,
 			"y": 205
@@ -40,7 +40,7 @@
 		"colorID": 0
 	},
 	{
-		"title": "A",
+		"title": "Aa",
 		"tags": "",
 		"body": "[i]Template có thể thêm 1 hình ảnh ở đầu trang.[/i]\nNhân vật @A1 ...\n[[ Giới thiệu nhân vật @B1 |B]][[ Chọn nhân vật @A1|C1a]]",
 		"position": {
